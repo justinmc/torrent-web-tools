@@ -55,7 +55,7 @@ If you don't have an index.html in the torrent directory, you will receive a war
 ### Seeding
 __TODO__
 
-Once you've generated a torrent, you'll need to seed it in order for other people to view its contents. To do so, add the torrent to uTorrent, set to find the files in their original location.
+Once you've generated a torrent, you'll need to seed it in order for other people to view its contents. To do so, add the torrent to uTorrent and make sure that the original files are in your default download directory.
 
 Note that seeding a torrent using clients other than uTorrent or BitTorrent may result in it not being reachable in the Maelstrom browser via magnet link.
 
